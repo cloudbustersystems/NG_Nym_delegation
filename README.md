@@ -1,2 +1,4 @@
 # NG_Nym_delegation
-Hello, Guru!
+Hello, Nodes.Guru team!
+
+Thank you for this amazing opportunity. 
